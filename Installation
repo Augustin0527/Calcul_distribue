@@ -1,0 +1,5 @@
+sudo apt update
+sudo apt install gfortran
+sudo apt install libblas−dev liblapack−dev
+sudo apt install libopenmpi−dev openmpi−bin
+sudo apt install git
